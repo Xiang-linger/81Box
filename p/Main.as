@@ -16,8 +16,9 @@ package p
 			{
 				var box:Box = new Box();
 				this.addChild(box);
-				box.x = Int(i % 10) * 60;//
-				box.y = Int(i / 10) * 60;//
+				box.x = Int(i % 10) * 60;
+				box.y = Int(i / 10) * 60;
+				//test 1
 			}
 		}
 		
