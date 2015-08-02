@@ -18,10 +18,8 @@ package p
 				this.addChild(box);
 				box.x = Int(i % 10) * 60;
 				box.y = Int(i / 10) * 60;
-				//test 1
-				//test 2
-				//test 3
 			}
+			//commit to the local 
 		}
 		
 	}
